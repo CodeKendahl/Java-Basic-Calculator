@@ -1,3 +1,7 @@
+/*
+A calculator class that can perform simple arithmetic operations on two integers.
+*/
+
 public class Calculator {
   public Calculator() {
 
